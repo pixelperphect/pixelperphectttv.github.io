@@ -140,7 +140,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.svgz);
+    background: url(xbox-assets/abxy.png);
     width: 48px;
     height: 48px;
 }
