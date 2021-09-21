@@ -8,7 +8,7 @@
 }
 
 .xbox.disconnected {
-    background: url(xbox-assets/disconnected.svgz);
+    background: url(https://gamepadviewer.com/xbox-assets/disconnected.svgz);
 }
 
 .xbox.disconnected div {
@@ -136,7 +136,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy.png);
+    background: url(xbox-assets/abxy-og.png);
     width: 48px;
     height: 48px;
 }
