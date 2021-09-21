@@ -1,6 +1,6 @@
 /*BEGIN Xbox One Controller Styling*/
 .controller.xbox {
-    background: url(xbox-assets/basemodded-nostick.png);
+    background: url(xbox-assets/basemodded-new.png);
     height: 630px;
     width: 750px;
     /*    margin-left: -375px;
@@ -136,7 +136,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy-fc.png);
+    background: url(xbox-assets/abxy.png);
     width: 48px;
     height: 48px;
 }
