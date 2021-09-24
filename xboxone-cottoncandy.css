@@ -136,7 +136,7 @@
 
 .xbox .button {
     position: absolute;
-    background: url(xbox-assets/abxy-cottoncandy.svg);
+    background: url(xbox-assets/abxy-cottoncandy.svgz);
     width: 48px;
     height: 48px;
 }
@@ -181,7 +181,7 @@
 
 .xbox .stick {
     position: absolute;
-    background: url(xbox-assets/stick-cottoncandy.svg);
+    background: url(xbox-assets/stick-cottoncandy.svgz);
     background-position: -85px 0;
     height: 83px;
     width: 83px;
